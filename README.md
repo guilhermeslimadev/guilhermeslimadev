@@ -3,7 +3,7 @@ Tenho 1 ano e meio com experiência de Desenvolvimento Web, Atuo na areá de Fre
 
 💬 Contate-me no email: guilhermesilvalima13042009@gmail.com
 
-🌱 Portfólio: https://portfolio-guilhermelimas-projects.vercel.app/
+🌱 Portfólio: https://guilhermelima.vercel.app/
 
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesilvadev2048&layout=compact&langs_count=16&theme=dracula" />
 <div>
