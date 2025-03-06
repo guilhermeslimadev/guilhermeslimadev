@@ -1,19 +1,61 @@
-Olá, eu sou o Guilherme Lima.
-Tenho 1 ano e meio com experiência de Desenvolvimento Web, Atuo na areá de Freelancer Frontend, gosto muito de trabalhar em equipe, e sou totalmente focado na responsividade dos meus projetos.
+<h2 align="left">Olá 👋! Meu nome é Guilherme Lima, e sou um desenvolvedor Front-end.</h2>
 
-💬 Contate-me no email: guilhermesilvalima13042009@gmail.com
+###
 
-🌱 Portfólio: https://guilhermelima.vercel.app/
+<p align="left">Desenvolvedor Front-end apaixonado por criar experiências digitais incríveis e interativas. Meu foco é sempre entregar interfaces responsivas, intuitivas e amigáveis. Ótima performance.</p>
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesilvadev2048&layout=compact&langs_count=16&theme=dracula" />
-<div>
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+###
+
+<p align="left">💬 Contate-me no email: guilhermesilvalima13042009@gmail.com</p>
+
+###
+
+<p align="left">🌱 Portfólio: https://guilhermelima.vercel.app/</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidjs" height="35" alt="solid logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="35" alt="styledcomponents logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="35" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeslimadev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
