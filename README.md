@@ -6,13 +6,10 @@
 
 ###
 
-<p align="left">💬 Contate-me no email: guilhermesilvalima13042009@gmail.com</p>
+<p align="left">💬 Contate-me no email: guilhermesilvalima1304@gmail.com</p>
 
 ###
 
-<p align="left">🌱 Portfólio: https://guilhermelima.vercel.app/</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
